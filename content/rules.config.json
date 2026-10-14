@@ -1,0 +1,22 @@
+{
+  "players": 2,
+  "overseerCost": 1,
+  "campaignCardCost": 2,
+  "campaignPurchase": "blind_draw",
+  "districtCoinsMode": "both_at_start",
+  "carryOverBudget": true,
+  "overseersCarryOver": false,
+  "affinityBonusPerMatch": 1,
+  "votePerUnspentOverseer": 1,
+  "diceBySeats": { "1": 2, "2": 3, "3": 3 },
+  "diceSides": 6,
+  "minDice": 1,
+  "spendToCancelCard": 3,
+  "spendToRemoveDie": 5,
+  "closeStationMargin": 6,
+  "initialPlots": 2,
+  "extraCandidatesDrawn": 1,
+  "reserveGivesCoins": false,
+  "campaignDeckCopiesPerCard": 3,
+  "finalTiebreak": "total_votes"
+}

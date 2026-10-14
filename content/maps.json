@@ -1,0 +1,37 @@
+[
+  {
+    "id": "penahonda",
+    "name": "Provincia de Peñahonda",
+    "image": "Mapa. Provincia de Peñahonda.png",
+    "flavor": "Peñahonda ya no es la provincia dócil que fue. En las villas nuevas se discute, en el campo se cuestiona la autoridad, y solo en la cabeza de partido se mantiene el viejo equilibrio. Las elecciones siguen resolviéndose rápido, pero ya no son tan previsibles. Quien ignore los cambios perderá la provincia.",
+    "districts": [
+      {
+        "id": "villa-nueva",
+        "order": 1,
+        "name": "Villa Nueva",
+        "seats": 1,
+        "coins": 2,
+        "attributes": { "ideology": "Progresista", "socialGroup": "Industriales", "religion": "Secular" },
+        "attributesProvisional": true
+      },
+      {
+        "id": "cabeza-de-partido",
+        "order": 2,
+        "name": "Cabeza de Partido",
+        "seats": 2,
+        "coins": 4,
+        "attributes": { "ideology": "Moderado", "socialGroup": "Terratenientes", "religion": "Confesional" },
+        "attributesProvisional": true
+      },
+      {
+        "id": "vega-de-los-molinos",
+        "order": 3,
+        "name": "Vega de los Molinos",
+        "seats": 2,
+        "coins": 3,
+        "attributes": { "ideology": "Progresista", "socialGroup": "Campesinos", "religion": "Confesional" },
+        "attributesProvisional": true
+      }
+    ]
+  }
+]

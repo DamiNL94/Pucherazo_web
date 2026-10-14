@@ -1,0 +1,7 @@
+pnpm-lock.yaml
+**/dist
+**/coverage
+**/dev-dist
+packages/content/assets
+*.md
+content/

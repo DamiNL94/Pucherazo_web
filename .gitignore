@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dev-dist/
+coverage/
+*.log
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+# WebP generados por `pnpm images` a partir de assets/raw
+packages/content/assets/webp/

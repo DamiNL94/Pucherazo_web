@@ -1,0 +1,58 @@
+[
+  {
+    "id": "andres-valera-asensio",
+    "number": "106",
+    "name": "Andrés Valera Asensio",
+    "party": "Conservative",
+    "coins": 1,
+    "attributes": { "ideology": "Reaccionario", "socialGroup": "Campesinos", "religion": "Confesional" },
+    "ability": {
+      "name": "Apoderado de los caciques",
+      "text": "Cada vez que el rival juegue una Carta de Campaña, debe elegir entre perder 1 voto o revelar su mano."
+    },
+    "flavor": "Vive entre los suyos, pero habla por otros. Cuando algo se mueve en el campo, primero pasa por él.",
+    "image": "Andrés Valera Asensio .jpeg"
+  },
+  {
+    "id": "bartolome-munoz-belda",
+    "number": "006",
+    "name": "Bartolomé Muñoz Belda",
+    "party": "Conservative",
+    "coins": 4,
+    "attributes": { "ideology": "Moderado", "socialGroup": "Industriales", "religion": "Confesional" },
+    "ability": {
+      "name": "Renovación fingida",
+      "text": "La primera vez que juegues una carta de campaña en este distrito, el rival puede robar una carta de Campaña. Si lo hace, pon en juego un Interventor a tu favor."
+    },
+    "flavor": "Joven, próspero y bien relacionado. Promete renovación sin sobresaltos y ha aprendido pronto que los apellidos también proyectan sombras.",
+    "image": "Bartolomé Muñoz Belda.jpeg"
+  },
+  {
+    "id": "pedro-calero-luanco",
+    "number": "011",
+    "name": "Pedro Calero Luanco",
+    "party": "Liberal",
+    "coins": 3,
+    "attributes": { "ideology": "Moderado", "socialGroup": "X", "religion": "Secular" },
+    "ability": {
+      "name": "Médico del pueblo",
+      "text": "Al iniciarse la fase de Campaña, elige la base social de apoyo de este candidato."
+    },
+    "flavor": "Cura a los humildes y negocia con los poderosos. Dice actuar por necesidad, no por ambición, y siempre encuentra una razón superior para cruzar la línea que otros aún discuten.",
+    "image": "Pedro Calero Luanco.jpeg"
+  },
+  {
+    "id": "raimundo-ruano-blazquez",
+    "number": "105",
+    "name": "Raimundo Ruano Blázquez",
+    "party": "Liberal",
+    "coins": 4,
+    "attributes": { "ideology": "Reaccionario", "socialGroup": "Terratenientes", "religion": "Secular" },
+    "ability": {
+      "name": "El rey del esparto",
+      "text": "Paga 1 moneda para ignorar los efectos negativos de las Cartas de Trama que te afecten en su distrito. Al inicio de la fase de Campaña, roba 1 Carta de Campaña."
+    },
+    "flavor": "No entró en política para servir a nadie. Entró para mandar, y eligió el partido que mejor se dejaba.",
+    "image": "Raimundo Ruano Blázquez.jpeg"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "las-arcas-en-numeros-rojos",
+    "number": "021",
+    "name": "Las arcas, en números rojos",
+    "tags": ["austerity"],
+    "conflictsWith": [],
+    "text": "Mientras Las arcas, en números rojos esté en juego: 1. El coste de todos los interventores aumenta en 1 moneda (mínimo 1). 2. La primera vez en cada distrito que un jugador gane monedas por cualquier efecto, gana 1 moneda menos (mínimo 0).",
+    "flavor": "No hay dinero para escuelas, ni para obras, ni para promesas. Pero siempre aparece una partida cuando alguien pregunta demasiado.",
+    "image": "Las arcas, en números rojos.jpeg"
+  },
+  {
+    "id": "anos-de-vacas-gordas",
+    "number": "027",
+    "name": "Años de vacas gordas",
+    "tags": ["prosperity"],
+    "conflictsWith": [],
+    "removesTagsOnEnter": ["austerity"],
+    "text": "Al entrar en juego Años de vacas gordas: 1. Retira inmediatamente todas las Cartas de Trama activas cuya narrativa sea contradictoria con la prosperidad económica. 2. Todos los jugadores ganan +1 moneda al inicio de cada distrito. 3. Los candidatos comerciantes ganan +1 voto.",
+    "flavor": "Hay trabajo, hay dinero y las calles están tranquilas. No es que los problemas hayan desaparecido… es que hoy no interesan.",
+    "image": "Años de vacas gordas.jpeg"
+  },
+  {
+    "id": "tiempo-de-liberales",
+    "number": "028",
+    "name": "Tiempo de liberales",
+    "tags": ["liberal-era"],
+    "conflictsWith": ["tiempo-de-conservadores"],
+    "text": "Todos los candidatos liberales suman +1 a su tirada de dados de votación en cada distrito en el que compitan. Al inicio de la partida, el Partido Conservador roba 1 Carta de Campaña adicional.",
+    "flavor": "Se habla de reformas, de futuro y de cambio. Las plazas se llenan de palabras nuevas. Algunos avanzan; otros aprenden a maniobrar.",
+    "image": "Tiempo de liberales.jpeg"
+  },
+  {
+    "id": "tiempo-de-conservadores",
+    "number": "029",
+    "name": "Tiempo de conservadores",
+    "tags": ["conservative-era"],
+    "conflictsWith": ["tiempo-de-liberales"],
+    "text": "Todos los candidatos conservadores suman +1 a su tirada de dados de votación en cada distrito en el que compitan. Al inicio de la partida, el Partido Liberal roba 1 Carta de Campaña adicional.",
+    "flavor": "Se habla de reformas, de futuro y de cambio. Las plazas se llenan de palabras nuevas. Algunos avanzan; otros aprenden a maniobrar.",
+    "image": "Tiempo de conservadores.jpeg"
+  },
+  {
+    "id": "observadores-internacionales",
+    "number": "030",
+    "name": "Observadores internacionales",
+    "tags": ["oversight"],
+    "conflictsWith": [],
+    "text": "No pueden jugarse Cartas de Campaña de Amaño. Excepción: un jugador puede jugar una Carta de Amaño solo si sacrifica previamente 2 Interventores en ese distrito.",
+    "flavor": "Llegaron con actas, sellos y miradas severas. No entendían el país, pero entendían las cifras. Y eso bastaba para incomodar a muchos.",
+    "image": "Observadores internacionales.jpeg"
+  }
+]

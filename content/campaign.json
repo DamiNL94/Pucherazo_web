@@ -1,0 +1,62 @@
+[
+  {
+    "id": "gran-mitin-en-la-plaza",
+    "number": "031",
+    "name": "Gran mitin en la plaza",
+    "isRigging": false,
+    "timing": "campaign",
+    "text": "Se juega antes de la elección. Lanza 1 dado y aplica el modificador correspondiente a la tirada de elección de este distrito: si sale 1, suma 0; si sale 2-3, suma 1; si sale 4-5, suma 2; y si sale 6, suma 3.",
+    "flavor": "La plaza está llena, la voz es firme y el eco exagera cada promesa. A veces funciona. A veces, no.",
+    "image": "Gran mitin en la plaza.jpeg"
+  },
+  {
+    "id": "octavillas-en-cada-esquina",
+    "number": "032",
+    "name": "Octavillas en cada esquina",
+    "isRigging": false,
+    "timing": "campaign",
+    "text": "Se juega antes de la elección. Suma +1 al resultado de la tirada de dados de este distrito.",
+    "flavor": "Un papel no cambia el mundo, pero cien papeles bien repartidos hacen dudar incluso al más convencido.",
+    "image": "Octavillas en cada esquina.jpeg"
+  },
+  {
+    "id": "promesa-electoral",
+    "number": "033",
+    "name": "Promesa electoral",
+    "isRigging": false,
+    "timing": "campaign",
+    "text": "Se juega antes de la elección. Suma +1 al resultado de tu tirada de votos en este distrito. Si ganas, obtienes 1 moneda adicional.",
+    "flavor": "No se garantiza el resultado, pero sí la intención. Y en política, la intención bien formulada vale dinero.",
+    "image": "Promesa electoral.jpeg"
+  },
+  {
+    "id": "cena-de-notables",
+    "number": "036",
+    "name": "Cena de notables",
+    "isRigging": false,
+    "timing": "campaign",
+    "text": "Juega esta carta antes de una elección. Suma +2 al resultado de tu tirada de dados de votos y añade 2 monedas de oro al Presupuesto de tu partido.",
+    "flavor": "Buenos vinos, palabras medidas y promesas que no se escriben. Al terminar el postre, todos saben exactamente a quién conviene apoyar.",
+    "image": "Cena de notables.jpeg"
+  },
+  {
+    "id": "declaraciones-desafortunadas",
+    "number": "037",
+    "name": "Declaraciones desafortunadas",
+    "isRigging": false,
+    "timing": "campaign",
+    "text": "Juega esta carta antes de una elección. Elige a un rival: resta 2 al resultado de su tirada de dados de votos en esta elección.",
+    "flavor": "No quiso decirlo así, pero ya es tarde. La frase corre de boca en boca y, de pronto, todos recuerdan exactamente lo que más les molesta.",
+    "image": "Declaraciones desafortunadas.jpeg"
+  },
+  {
+    "id": "debate-en-el-ateneo",
+    "number": "038",
+    "name": "Debate en el ateneo",
+    "isRigging": false,
+    "timing": "campaign",
+    "text": "Al jugar esta carta, tú y un rival elegido lanzáis un dado. Quien obtenga el resultado más alto suma a su tirada de votos la diferencia entre ambos resultados. En caso de empate, no ocurre nada.",
+    "flavor": "No hubo aplausos estruendosos ni gestos grandilocuentes. Solo argumentos, silencios y la incómoda certeza de que uno habló mejor que el otro.",
+    "image": "Debate en el ateneo.jpeg"
+  }
+]
